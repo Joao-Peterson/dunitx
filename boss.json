@@ -1,0 +1,9 @@
+{
+	"name": "dunitx",
+	"description": "Delphi Unit Test Framework with boss support!",
+	"version": "1.0.0",
+	"homepage": "https://github.com/Joao-Peterson/dunitx",
+	"mainsrc": "./Source",
+	"projects": [],
+	"dependencies": {}
+}
